@@ -4,6 +4,7 @@
 *  Used Spring Boot to make use of dependency injection
 *  Added test units
 *  Using InMemory ehcache for caching
+*  The main file is named as Client which is under the fhir.playground package
 
 ### PREREQUISITES
 
